@@ -7,9 +7,9 @@ Sharing the link below that is gathered from the official Apple App Store may ca
 # Link
 https://apps.apple.com/us/app/harry-potter-wizards-unite/id1452352832
 
-#Crash Logs
-Below are 2 links to crash logs from a jailbroken iOS 12.1 iPhone SE running Unc0ver 3.2.x and grabbed through CrashReporter as it does not always trigger the log creation in Cr4shed. I will be turning these into files that will be located within this repo later.
-https://pastebin.com/z9jsldqc
+# Crash Logs
+Below are 2 links to crash logs from a jailbroken iOS 12.1 iPhone SE running Unc0ver 3.2.x and grabbed through CrashReporter as it does not always trigger the log creation in Cr4shed. I will be turning these into files that will be located within this repo later. <br/>
+https://pastebin.com/z9jsldqc <br/>
 https://pastebin.com/kjmfsvuq
 
 # Help
